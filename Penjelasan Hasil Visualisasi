@@ -1,0 +1,5 @@
+Dari dataset COVID19 yang saya olah, terbagi menjadi 3 tren yaitu, tren kasus harian, tren kematian harian, dan tren kesembuhan harian.
+Data dianalisis dari tanggal 1 hingga 10 bulan Januari tahun 2021
+Didapatkan bahwa kasus harian semakin hari semakin bertambah dengan dibuktikan pada tanggal 10 Januari 2021 mencapai 60 kasus
+Kasus kematian harian semakin hari juga semakin bertambah dengan dibuktikan pada tanggal 10 Januari 2021 berjumlah 6 jiwa meninggal dunia
+Selain itu berdasarkan tren kesembuhan didatkan juga bahwa semakin hari jiwa yang terselamatkan semakin banyak, dengan dibuktikan pada tanggal 10 Januari 2021 30 jiwa berhasil diselamatkan
